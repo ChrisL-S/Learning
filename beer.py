@@ -38,4 +38,3 @@ for beer in beers:
 # print(beerjson[2])
 
 # print(response.text)
-# comment
