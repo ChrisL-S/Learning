@@ -1,0 +1,3 @@
+https://devasc-iosxe-mgmt-1.cisco.com:443/restconf/data/ietf-interfaces:interfaces/interface=GigabitEthernet2
+Authorization: Basic ZGV2ZWxvcGVyOkNhY3R1c01vcGVkR3JlZW40Mg==
+Accept: application/yang-data+json

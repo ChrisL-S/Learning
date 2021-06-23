@@ -2,6 +2,7 @@ import requests
 import json
 import webbrowser
 
+
 url = 'https://api.punkapi.com/v2/beers?'
 page = 'page=1&per_page=80&'
 #abv_gt_num = '20'
